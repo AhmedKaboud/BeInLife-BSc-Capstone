@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BNLife" GeneratedClassName="AppSetting">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">639114909590428</Value>
+    </Setting>
+    <Setting Name="AppSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ac926d9b73a2baae9622b04f867e67ef</Value>
+    </Setting>
+    <Setting Name="AccessToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Email" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Scope" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">public_profile,email,publish_actions,user_posts,user_likes,user_actions.news,public_profile</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
